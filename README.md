@@ -26,7 +26,7 @@ Das Plugin bündelt und erweitert REST-Endpunkte, um den Datenaustausch zwischen
 
 
 ![Editor-Ansicht](./assets/ud-shared-api.png)
-*Abbildung: Die Einträge der Shared-Api*
+*Abbildung: Die Einträge der Shared-Api können über /wp-json/ud/v1/ aufgerufen werden.*
 
 
 ## Technische Details
