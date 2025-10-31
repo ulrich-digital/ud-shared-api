@@ -3,7 +3,6 @@
 Zentrale Schnittstellen-Erweiterung.
 Das Plugin bündelt und erweitert REST-Endpunkte, um den Datenaustausch zwischen verschiedenen Custom Post Types, Blöcken und externen Anwendungen zu vereinheitlichen.
 
----
 
 ## Funktionen
 
@@ -26,7 +25,7 @@ Das Plugin bündelt und erweitert REST-Endpunkte, um den Datenaustausch zwischen
 
 
 ![Editor-Ansicht](./assets/ud-shared-api.png)
-*Abbildung: Die Einträge der Shared-Api können über /wp-json/ud/v1/ aufgerufen werden.*
+*Die Einträge der Shared-Api können über /wp-json/ud/v1/ aufgerufen werden.*
 
 
 ## Technische Details
@@ -40,32 +39,16 @@ Das Plugin bündelt und erweitert REST-Endpunkte, um den Datenaustausch zwischen
 - JSON-Ausgabe für direkte Nutzung in Frontend-Blöcken
 - Vollständig kompatibel mit WordPress REST-API-Sicherheitsmodell
 
----
 
-## Installation
-
-1. Plugin-Ordner `ud-shared-api` in `wp-content/plugins/` kopieren  
-2. Im WordPress-Backend unter **Plugins → Installierte Plugins** aktivieren  
-3. API-Endpunkte stehen danach automatisch unter `/wp-json/ud/v1/` bereit  
-
----
-
-## Anforderungen
-
-- WordPress ≥ 6.7  
-- PHP ≥ 7.4  
-- REST-API aktiviert  
-
----
 
 ## Autor
 
-**ulrich.digital gmbh**  
-[https://ulrich.digital](https://ulrich.digital)
+[ulrich.digital gmbh](https://ulrich.digital)
 
----
 
 ## Lizenz
 
-GPL v2 or later  
+GPL v2 or later
 [https://www.gnu.org/licenses/gpl-2.0.html](https://www.gnu.org/licenses/gpl-2.0.html)
+
+
